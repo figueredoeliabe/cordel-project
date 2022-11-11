@@ -49,12 +49,12 @@ a:hover{
 }
 
 section{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 13vh;
+    padding-bottom: 13vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 4vw;
+    font-size: 4.5vw;
 }
 
 section > p{
